@@ -1,4 +1,4 @@
 # stepic-auto-tests
 Some auto tests
 
-another thing to add
+Some changes here
